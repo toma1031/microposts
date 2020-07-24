@@ -1,24 +1,31 @@
-# README
+# micropost
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+"micropost" is web service that people can post.
+Users can follow other users and make favorite their post.
 
-Things you may want to cover:
+# Requirement
 
-* Ruby version
+kaminari
 
-* System dependencies
+# Installation
 
-* Configuration
+ruby 2.5.3p105 (2018-10-18 revision 65156)
+Rails 5.2.4.3
+jQuery
+kaminari
 
-* Database creation
+# Usage
 
-* Database initialization
+Put your Post and follow other users.
 
-* How to run the test suite
+# Author
 
-* Services (job queues, cache servers, search engines, etc.)
+* Akinori Toma
+* ignitoma_1031@yahoo.co.jp
 
-* Deployment instructions
+# License
 
-* ...
+"micropost" is under [Akinori Toma license].
+
+Enjoy making your posts!
+
